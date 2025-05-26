@@ -19,7 +19,7 @@ public class FacturaDetallePrincipal {
         //SET FACTURA ^^
 
         //LLAMAMOS CLASE LIBRO
-        Libro libro = new Libro(1,"Habitos Atomicos","Roca editorial",300,"Primera Edicion","Esp","Superacion","Pasta blanda","001-01-001",10,"azul","Libro de bolsillo","10.99");
+        Libro libro = new Libro(1,"Otros Mundos","Planeta Junior",400,"Primera Edicion","Esp","Ficcion","Pasta blanda","001-01-001",10,"azul","Libro de bolsillo","8.99");
 
         //LLAMAMOS CLASE FACTURADETALLE
         FacturaDetalle facturadetalle = new FacturaDetalle(1,2, 15.50F);
@@ -28,6 +28,6 @@ public class FacturaDetallePrincipal {
         facturadetalle.setFactura(factura);
         facturadetalle.setLibro(libro);
 
-        System.out.println(facturadetalle.toString());
+        System.out.println(facturadetalle);
     }
 }
