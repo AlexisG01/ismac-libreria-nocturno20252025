@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Tarea. Base completa con inyeccion de datos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +46,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Michael &lt;joecaiza1112@outlook.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexisG01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MichaelCza11/Libreria.git",
+    "accountId": "b44d5006-055a-4bff-a7a9-a9b43066d64f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -74,7 +89,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "master1",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Progra_distribuida/libreria",
     "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
@@ -176,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748125071707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inyeccion de datos">
+      <option name="closed" value="true" />
+      <created>1748308868620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748308868620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +218,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="mi primer comentario creacion de clases cliente y factura entities" />
     <MESSAGE value="Tarea. Base completa con inyeccion de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea. Base completa con inyeccion de datos" />
+    <MESSAGE value="inyeccion de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="inyeccion de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
