@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="inyeccion de datos" />
+    <list default="true" id="9fa56239-a926-43ac-a38f-4392d9981678" name="Changes" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,20 +51,29 @@
         <option value="Michael &lt;joecaiza1112@outlook.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AlexisG01"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexisG01&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MichaelCza11/Libreria.git",
-    "accountId": "b44d5006-055a-4bff-a7a9-a9b43066d64f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MichaelCza11/Libreria.git&quot;,
+    &quot;accountId&quot;: &quot;b44d5006-055a-4bff-a7a9-a9b43066d64f&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/distribuida/test/ClienteTest.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -80,6 +89,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClientePrincipal.executor": "Run",
+    "Gradle.Libreria [:com.distribuida.principal.LibroPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.AutorPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.CategoriaPrincipal.main()].executor": "Run",
     "Gradle.libreria [:com.distribuida.principal.ClientePrincipal.main()].executor": "Run",
@@ -94,7 +104,7 @@
     "last_opened_file_path": "C:/Progra_distribuida/libreria",
     "onboarding.tips.debug.path": "C:/Distribuida-Nocturna/libreria/src/main/java/com/distribuida/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
@@ -199,7 +209,55 @@
       <option name="project" value="LOCAL" />
       <updated>1748308868620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Inyeccion de Datos">
+      <option name="closed" value="true" />
+      <created>1748309318921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748309318921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inyeccion de Datos">
+      <option name="closed" value="true" />
+      <created>1748309420524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748309420524</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inyeccion de Datos">
+      <option name="closed" value="true" />
+      <created>1748309451689</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748309451689</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'ismac-libreria-nocturno20252025/master1' into master1">
+      <option name="closed" value="true" />
+      <created>1748309564384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748309564384</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test">
+      <option name="closed" value="true" />
+      <created>1748312671844</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748312671844</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test">
+      <option name="closed" value="true" />
+      <created>1748312681909</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748312681909</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +277,10 @@
     <MESSAGE value="mi primer comentario creacion de clases cliente y factura entities" />
     <MESSAGE value="Tarea. Base completa con inyeccion de datos" />
     <MESSAGE value="inyeccion de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="inyeccion de datos" />
+    <MESSAGE value="Inyeccion de Datos" />
+    <MESSAGE value="Merge remote-tracking branch 'ismac-libreria-nocturno20252025/master1' into master1" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
